@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/biobinary/osaka-flight-scheduler.git
+  git clone https://github.com/FilbertHainsly/Flight-Scheduler-with-GBFS.git
 ```
 
 Go to the project directory
